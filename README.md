@@ -13,12 +13,13 @@ Things I like:
 
 Things I need:
 - Tech
-- Coffee
+- **Coffee**
 - Physical activity
 - Experience in coding
 
 Learning:
-[] HTML
-[] CSS
-[] JavaScript
-[] React
+
+[ ] HTML
+[ ] CSS
+[ ] JavaScript
+[ ] React
